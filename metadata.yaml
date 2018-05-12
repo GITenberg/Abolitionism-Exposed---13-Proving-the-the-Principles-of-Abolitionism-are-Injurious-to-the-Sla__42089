@@ -1,0 +1,31 @@
+_repo: Abolitionism-Exposed---13-Proving-the-the-Principles-of-Abolitionism-are-Injurious-to-the-Sla__42089
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42089-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sleigh, W. W. (William Willcocks)
+    alias: Sleigh, William Willcocks
+    birthdate: 1796
+    gutenberg_agent_id: '41517'
+    url: http://www.gutenberg.org/2009/agents/41517
+description: ''
+gutenberg_issued: '2013-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42089'
+  lccn: '11011626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abolitionists'
+- !lcsh 'African Americans -- Colonization'
+- !lcsh 'Slavery -- United States'
+- !lcc 'E300'
+title: "Abolitionism Exposed!\r\nProving the the Principles of Abolitionism are Injurious\
+  \ to the Slaves Themselves, Destructive to This Nation, and Contrary to the Express\
+  \ Commands of God"
+url: http://www.gutenberg.org/ebooks/42089
